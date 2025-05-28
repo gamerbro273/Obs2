@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5bf30f82-1e65-4725-8d8c-0a3fb93d7b9d)# Observacion 2
+# Observacion 2
 
 # ¿Qué es Git?
 Git es un sistema de control de versiones distribuido, de código abierto, que permite a los desarrolladores rastrear los cambios en el código fuente de un proyecto.
