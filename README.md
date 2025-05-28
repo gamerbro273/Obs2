@@ -9,7 +9,7 @@ Es un archivo digital donde se almacena, organiza y preserva información, espec
 # ¿Qué es un commit?
 Un commit es como una foto (instantánea) de tu proyecto en un momento específico, que se guarda para que puedas ver qué cambios se hicieron en el código a lo largo del tiempo.
 # ¿Qué es una rama?
-s una línea de desarrollo independiente que se deriva de un repositorio principal.
+Es una línea de desarrollo independiente que se deriva de un repositorio principal.
 # ¿Qué es push?
 Se utiliza para subir las modificaciones que has hecho en tu repositorio local a un repositorio remoto.
 # ¿Qué es pull?
